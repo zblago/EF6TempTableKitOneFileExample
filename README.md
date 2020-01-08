@@ -8,6 +8,6 @@ Behind the scene you will get
 1. DB on your local SQL Server
 2. Demo data
 
-Generated code should be like
+Generated code looks like
 
 ![Final T-SQL](EF6TempTableKitOneFileExample/QueryWithTempTable.png)
